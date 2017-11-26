@@ -1,0 +1,1 @@
+F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\bin\Debug\AlgorithmCSharp.exe.config
