@@ -1,1 +1,6 @@
 F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\bin\Debug\AlgorithmCSharp.exe.config
+F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\obj\Debug\AlgorithmCSharp.csprojResolveAssemblyReference.cache
+F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\bin\Debug\AlgorithmCSharp.exe
+F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\bin\Debug\AlgorithmCSharp.pdb
+F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\obj\Debug\AlgorithmCSharp.exe
+F:\VS2015Project\AlgorithmCSharp\AlgorithmCSharp\obj\Debug\AlgorithmCSharp.pdb
