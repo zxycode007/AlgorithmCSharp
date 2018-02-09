@@ -22,6 +22,10 @@ public class HeapNode<T> where T : new()
         {
             return v;
         }
+        set
+        {
+            v = value;
+        }
     }
 
 
@@ -70,6 +74,12 @@ public class PriorityQueue<T> where T : new()
         Exchange(1, Count);
         heap.Remove(node);
         Sink(1);
+        return node.Value;
+    }
+
+    public T Pick()
+    {
+        HeapNode<T> node = heap[1];
         return node.Value;
     }
 
